@@ -23,16 +23,16 @@ This is the space where i spend most of my time, a place where imagination and c
   </a>
 </p>
 
-### 📱 *Mobile*
+### ☁️ *DevOps & Cloud*
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react,androidstudio" />
+    <img src="https://skillicons.dev/icons?i=docker,git,github,azure,linux" />
   </a>
 </p>
+---
 
-### 🗄️ *Banco de Dados*
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,firebase,redis,sqlite,prisma" />
-  </a>
-</p>
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/wellingtoncorreia/wellingtoncorreia/output/snake.svg" alt="Snake animation" align="center" />
+
+---
