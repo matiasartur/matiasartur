@@ -12,8 +12,7 @@ This is the space where i spend most of my time, a place where imagination and c
 ---
 
 <div align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=espindolajv&layout=compact&theme=radical" width="45%" />
-</div>
+  ![](https://github-readme-stats.shion.dev/api/top-langs/?username=matiasartur&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
 
