@@ -4,7 +4,7 @@
 
 <img align="right" style="border-radius:15px;" height="300" src="./assets/gifdev.gif" />
 
-💻 **Full-Stack Developer** | 20 anos | passionate about technology.
+💻 **Full-Stack Developer** | 20 years | passionate about technology.
 
 
 This is the space where i spend most of my time, a place where imagination and creativity become code!
