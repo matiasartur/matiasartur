@@ -2,6 +2,11 @@
  ###
 
  <img align="right" style="border-radius:15px;" height="300" src="./assets/gifdev.gif" />
+ 
+<br>
+<br>
+<br>
+<br>
 
 💻 My name is Artur Matias, i'm a **Full-Stack Developer** passionate about technology.
 
