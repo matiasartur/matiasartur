@@ -74,9 +74,9 @@ This is the space where i spend most of my time, a place where imagination and c
 
 ---
 
-![](https://github-readme-stats.shion.dev/api?username=matiasartur&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+
 ![](https://streak-stats.demolab.com/?user=matiasartur&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=matiasartur&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
 
 ---
 
