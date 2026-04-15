@@ -12,7 +12,8 @@ This is the space where i spend most of my time, a place where imagination and c
 ---
 
 <div align="left">
-  ![](https://github-readme-stats.shion.dev/api/top-langs/?username=matiasartur&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+  ![Apache Groovy](https://img.shields.io/badge/Apache%20Groovy-4298B8.svg?style=for-the-badge&logo=Apache+Groovy&logoColor=white) ![Datadog](https://img.shields.io/badge/datadog-%23632CA6.svg?style=for-the-badge&logo=datadog&logoColor=white)
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=matiasartur&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
 
@@ -65,8 +66,7 @@ This is the space where i spend most of my time, a place where imagination and c
   </a>
 </p>
 
-![Apache Groovy](https://img.shields.io/badge/Apache%20Groovy-4298B8.svg?style=for-the-badge&logo=Apache+Groovy&logoColor=white) ![Datadog](https://img.shields.io/badge/datadog-%23632CA6.svg?style=for-the-badge&logo=datadog&logoColor=white)
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=matiasartur&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
 ---
 
 <br clear="both">
