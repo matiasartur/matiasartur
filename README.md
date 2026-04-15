@@ -71,7 +71,14 @@ This is the space where i spend most of my time, a place where imagination and c
 
 <img src="https://raw.githubusercontent.com/wellingtoncorreia/wellingtoncorreia/output/snake.svg" alt="Snake animation" align="center" />
 <br>
+
+---
+
+![](https://github-readme-stats.shion.dev/api?username=matiasartur&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://streak-stats.demolab.com/?user=matiasartur&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=matiasartur&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+---
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/matiasarturr) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:arturmatias0505@gmail.com) 
