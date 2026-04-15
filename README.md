@@ -1,28 +1,25 @@
-## Hi there 👋
- ###
+<h2 align="left">Hi there, I am Artur Matias 👋</h2>
 
- <img align="right" style="border-radius:15px;" height="300" src="./assets/gifdev.gif" />
- 
-<br>
-<br>
-<br>
-<br>
+###
 
-💻 My name is Artur Matias, i'm a **Full-Stack Developer** passionate about technology.
+<img align="right" style="border-radius:15px;" height="300" src="./assets/gifdev.gif" />
 
-This is the space where i spend most of my time, a place where imagination and creativity become code! :rocket:
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
+💻 **Full-Stack Developer** | 20 anos | passionate about technology.
 
 
-### 💻 *Frontend*
+This is the space where i spend most of my time, a place where imagination and creativity become code!
+
+---
+
+<div align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=espindolajv&layout=compact&theme=radical" width="45%" />
+</div>
+
+---
+
+## 🛠️ Tecnologias & Ferramentas
+
+### 💻 **Frontend**
 <p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=js,ts,react,angular,nextjs" />
@@ -34,19 +31,41 @@ This is the space where i spend most of my time, a place where imagination and c
   </a>
 </p>
 
-### 🔧 *Backend*
+### 🔧 **Backend**
 <p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=nodejs,nestjs,express,cs,dotnet" />
   </a>
 </p>
 
-### ☁️ *DevOps & Cloud*
+### 📱 **Mobile**
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=react,androidstudio" />
+  </a>
+</p>
+
+### 🗄️ **Banco de Dados**
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,firebase,redis,sqlite,prisma" />
+  </a>
+</p>
+
+### ☁️ **DevOps & Cloud**
 <p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=docker,git,github,azure,linux" />
   </a>
 </p>
+
+### 🎨 **Design & Testes**
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=figma,jest,vitest,cypress,postman,vscode" />
+  </a>
+</p>
+
 ---
 
 <br clear="both">
