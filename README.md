@@ -3,15 +3,15 @@
 
  <img align="right" style="border-radius:15px;" height="300" src="./assets/gifdev.gif" />
 
-<br>
-<br>
-<br>
-
-
 💻 My name is Artur Matias, i'm a **Full-Stack Developer** passionate about technology.
 
 This is the space where i spend most of my time, a place where imagination and creativity become code! :rocket:
 <br>
+<br>
+<br>
+<br>
+
+
 ### 💻 *Frontend*
 <p align="left">
   <a href="https://skillicons.dev">
