@@ -32,7 +32,7 @@ This is the space where i spend most of my time, a place where imagination and c
 ### 🔧 **Backend**
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=nodejs,nestjs,express,cs,dotnet" />
+    <img src="https://skillicons.dev/icons?i=nodejs,nestjs,express,cs,dotnet,java" />
   </a>
 </p>
 
